@@ -21,3 +21,30 @@ My primary source of motivation is money 💵(because I live in Turkey and life 
 # How to reach me?
 
 👉[@hozan_php](https://twitter.com/hozan_php) me on Twitter about any of the following!
+
+<p align="center">
+  <a href="https://github.com/hozansahin" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=hozansahin&title_color=333&text_color=777" alt="İstatislikler" >
+  </a>
+</p>
+
+<p align="center">
+  &emsp;
+  <a href="https://hozansahin.com.tr">
+    <img src="https://img.icons8.com/material/256/000000/globe--v1.png" width="28px"/>
+  </a>
+  &emsp;
+  <a href="https://linkedin.com/in/hozansahin">
+    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+  </a>
+  &emsp;
+  <a href="https://twitter.com/hozan_php">
+    <img src="https://img.icons8.com/ios-filled/256/000000/twitter.svg" width="26px"/>
+  </a>
+  <br><br>
+  <strong>Çalışmalarıma Göz atın!</strong>
+  <br><br>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/hozansahin/hozansahin?style=flat-square&color=black&logo=github">
+  </a>
+</p>
